@@ -2,8 +2,8 @@ const webpack = require("webpack");
 const path = require('path');
 
 module.exports = {
-    entry: './app/index.js',
-    devtool: 'source-map',
+    entry: path.resolve(__dirname, 'app/2_begin/index.js'),
+    devtool: '#source-map',
     mode: 'development',
     output: {
         path: path.resolve(__dirname, 'build'),
