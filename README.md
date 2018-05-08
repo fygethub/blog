@@ -8,7 +8,8 @@ Record the bug or experience where I meet  in the work
 ## 三月 There is always a person want to win That is why can't I !
 1. [地址127.0.0.1与0.0.0.0的区别](https://github.com/fygethub/blog/issues/7)
 
-
+## 四月
+1. [优化打包:从4.5M首屏10秒 到 400k首屏 1s](https://github.com/fygethub/blog/issues/10)
 
 # 2017 
 
