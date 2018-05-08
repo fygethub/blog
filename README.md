@@ -11,6 +11,8 @@ Record the bug or experience where I meet  in the work
 ## 四月
 1. [优化打包:从4.5M首屏10秒 到 400k首屏 1s](https://github.com/fygethub/blog/issues/8)
 2. [git本地分支push到远程仓库报错error: src refspec XXX matches more than one](https://github.com/fygethub/blog/issues/9)
+3. [ios有很大概率出现父元素不能滑动的现象](https://github.com/fygethub/blog/issues/10)
+
 # 2017 
 
 ## Get Busy Living Or Get Busy Dying
