@@ -3,9 +3,7 @@
 Record the bug or experience where I meet  in the work
 
 #2020
-1. [flex-shrink如何计算](https://githubflex-shrink如何计算.com/fygethub/blog/issues/11
-
-
+1. [flex-shrink如何计算](https://githubflex-shrink如何计算.com/fygethub/blog/issues/11)
 
 # 2018
 
