@@ -2,7 +2,12 @@
 # Blog
 Record the bug or experience where I meet  in the work
 
-#2020
+# 2021
+## 六月 Inspire Creativity Enrich Life
+1. [如何从终端直接打开webstorm](https://github.com/fygethub/blog/issues/14)
+
+
+# 2020
 1. [flex-shrink如何计算](https://github.com/fygethub/blog/issues/11)
 
 # 2018
